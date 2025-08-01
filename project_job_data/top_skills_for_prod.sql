@@ -23,7 +23,7 @@ inner JOIN skills_dim ON skills_dim.skill_id = skills_job_dim.skill_id
 ORDER BY salary_year_avg desc
 
 --THIS DATA WAS TAKEN FROM THE TOP PAYING JOBS IN THE PRODUCT ANALYST ROLE
--- Top Skills from Top Job Listings:
+-- Top Technical Skills from Top Job Listings:    
 -- 1. SQL        - appeared 6 times
 -- 2. Python     - appeared 5 times
 -- 3. R          - appeared 3 times
